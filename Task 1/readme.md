@@ -69,7 +69,7 @@ project_folder/
 ├── books.dat                               (Auto-generated data file)
 ├── students.dat                            (Auto-generated data file)
 ├── transactions.dat                        (Auto-generated data file)
-└── readme.instruction                               (Documentation)
+└── readme.md                               (Documentation)
 ```
 ## Installation & Setup
 
