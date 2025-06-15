@@ -176,15 +176,25 @@ transactions.dat format: TransactionID|BookID|StudentID|IssueDate|DueDate|Return
 3. "1984" by George Orwell
 4. "Pride and Prejudice" by Jane Austen
 5. "The Catcher in the Rye" by J.D. Salinger
+6. "Lord of the Flies" by William Golding
+7. "The Hobbit" by J.R.R. Tolkien
+8. "Brave New World" by Aldous Huxley
+9. "The Chronicles of Narnia" by C.S. Lewis
+10. "Harry Potter and the Sorcerer's Stone" by J.K. Rowling
 ```
 
 ### Sample Students
 ```
-1. John Doe - Computer Science - 555-0101
-2. Jane Smith - Mathematics - 555-0102
-3. Mike Johnson - Physics - 555-0103
-4. Sarah Wilson - Chemistry - 555-0104
-5. David Brown - Biology - 555-0105
+1. John Doe | Computer Science | 555-0101  
+2. Jane Smith | Mathematics | 555-0102  
+3. Mike Johnson | Physics | 555-0103  
+4. Sarah Wilson | Chemistry | 555-0104  
+5. David Brown | Biology | 555-0105  
+6. Emily Davis | English Literature | 555-0106  
+7. Robert Miller | History | 555-0107  
+8. Lisa Anderson | Psychology | 555-0108  
+9. Kevin Taylor | Engineering | 555-0109  
+10. Amanda White | Business Administration | 555-0110 
 ```
 
 ## Advanced Features
